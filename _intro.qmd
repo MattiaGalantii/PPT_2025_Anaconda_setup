@@ -1,0 +1,67 @@
+# {{< fa solid laptop-code >}} Where to Write and Run Python Code?
+## Two Ways to Write and Run Python Code
+
+There are two main ways you can program in Python for this course:
+
+1. **Anaconda (Recommended)**: simple, all-in-one installation.  
+2. **Google Colab**: online and quick, but limited control.
+
+---
+
+## Option 1: Anaconda (Recommended)
+
+:::{.center}
+![](assets/anaconda_icon.png){alt="Anaconda Logo" width="120px"}
+:::
+
+**Anaconda** is the easiest and most reliable way to get started with Python for data and scientific applications.
+
+It includes:
+
+- **Python**, **Jupyter Notebook**, and **Spyder** (ready to use)
+- A built-in **package and environment manager** (Conda GUI)
+- Pre-installed scientific libraries (NumPy, pandas, Matplotlib, etc.)
+
+
+:::{.fragment}
+> We recommend Anaconda for most students to ensure a smooth start.
+:::
+
+---
+
+
+## Option 2: Google Colab (Alternative)
+
+:::{.center}
+![](assets/colab_icon.png){alt="Google Colab Logo" width="120px"}
+:::
+
+If you cannot install software locally or you run into issues, you can use **Google Colab**:
+
+- It runs completely in the browser  
+- Requires only a Google account  
+- No Python installation needed  
+- Lets you upload notebooks or open them directly from GitHub  
+- Already includes most common Python packages (NumPy, pandas, matplotlib, etc.)
+
+---
+
+⚠️ However:
+
+- Internet connection is required  
+- File and environment control is limited  
+- Some advanced features may not be available
+
+:::{.fragment}
+> Use colab if you face installation issues, but VS Code is the preferred option for this course.
+:::
+---
+
+## Summary
+
+| Platform                | Requires Installation | Works Offline | Package & File Control | Recommended For |
+|--------------------------|----------------------|----------------|----------------|----------------|
+| **Anaconda**             | ✅ Yes               | ✅ Yes         | ✅ Medium       | Most students, easy start |
+| **Google Colab**         | ❌ No                | ❌ No          | ⚠️ Limited      | Temporary or remote work |
+
+Next, we’ll guide you through setting up Anaconda on your computer.

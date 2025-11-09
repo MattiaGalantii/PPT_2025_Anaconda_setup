@@ -1,0 +1,13 @@
+---
+title: "Practicum Process Technology: Python Setup in VsCode"
+subtitle: "How to install Python and Jupyter Notebook"
+author: "Mattia Galanti"
+format:
+  revealjs:
+    title-slide-attributes:
+      data-transition: 'zoom'
+---
+{{< include _intro.qmd >}}
+{{< include _Anaconda.qmd >}}
+
+

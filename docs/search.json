@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html#two-ways-to-write-and-run-python-code",
+    "href": "index.html#two-ways-to-write-and-run-python-code",
+    "title": "Practicum Process Technology: Python Setup in VsCode",
+    "section": "Two Ways to Write and Run Python Code",
+    "text": "Two Ways to Write and Run Python Code\nThere are two main ways you can program in Python for this course:\n\nAnaconda (Recommended): simple, all-in-one installation.\n\nGoogle Colab: online and quick, but limited control."
+  },
+  {
+    "objectID": "index.html#option-1-anaconda-recommended",
+    "href": "index.html#option-1-anaconda-recommended",
+    "title": "Practicum Process Technology: Python Setup in VsCode",
+    "section": "Option 1: Anaconda (Recommended)",
+    "text": "Option 1: Anaconda (Recommended)\n\n\n\nAnaconda is the easiest and most reliable way to get started with Python for data and scientific applications.\nIt includes:\n\nPython, Jupyter Notebook, and Spyder (ready to use)\nA built-in package and environment manager (Conda GUI)\nPre-installed scientific libraries (NumPy, pandas, Matplotlib, etc.)\n\n\n\nWe recommend Anaconda for most students to ensure a smooth start."
+  },
+  {
+    "objectID": "index.html#option-2-google-colab-alternative",
+    "href": "index.html#option-2-google-colab-alternative",
+    "title": "Practicum Process Technology: Python Setup in VsCode",
+    "section": "Option 2: Google Colab (Alternative)",
+    "text": "Option 2: Google Colab (Alternative)\n\n\n\nIf you cannot install software locally or you run into issues, you can use Google Colab:\n\nIt runs completely in the browser\n\nRequires only a Google account\n\nNo Python installation needed\n\nLets you upload notebooks or open them directly from GitHub\n\nAlready includes most common Python packages (NumPy, pandas, matplotlib, etc.)"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Practicum Process Technology: Python Setup in VsCode",
+    "section": "Summary",
+    "text": "Summary\n\n\n\n\n\n\n\n\n\n\nPlatform\nRequires Installation\nWorks Offline\nPackage & File Control\nRecommended For\n\n\n\n\nAnaconda\n✅ Yes\n✅ Yes\n✅ Medium\nMost students, easy start\n\n\nGoogle Colab\n❌ No\n❌ No\n⚠️ Limited\nTemporary or remote work\n\n\n\nNext, we’ll guide you through setting up Anaconda on your computer."
+  },
+  {
+    "objectID": "index.html#follow-these-steps-to-install-anaconda-on-your-system",
+    "href": "index.html#follow-these-steps-to-install-anaconda-on-your-system",
+    "title": "Practicum Process Technology: Python Setup in VsCode",
+    "section": "Follow these steps to install Anaconda on your system:",
+    "text": "Follow these steps to install Anaconda on your system:\nStep 1:\nInstall Anaconda from the official website: Anaconda Distribution\nStep 2:\nFollow the installation instructions for your operating system (Windows, macOS, or Linux).\nStep 3:\nOnce installed, launch Anaconda Navigator.\nStep 4:\nFrom Anaconda Navigator, you can launch your favorite IDE (Integrated Development Environment) such as Jupyter Notebook, VS Code or Spyder."
+  }
+]
