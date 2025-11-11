@@ -1,5 +1,5 @@
 ---
-title: "Practicum Process Technology: Anaconda - Python Setup "
+title: "CBL Process Technology: Anaconda - Python Setup "
 subtitle: "How to install Anaconda"
 author: "Mattia Galanti"
 format:
