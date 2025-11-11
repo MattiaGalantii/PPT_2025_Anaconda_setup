@@ -1,6 +1,6 @@
 ---
-title: "Practicum Process Technology: Python Setup in VsCode"
-subtitle: "How to install Python and Jupyter Notebook"
+title: "Practicum Process Technology: Anaconda - Python Setup "
+subtitle: "How to install Anaconda"
 author: "Mattia Galanti"
 format:
   revealjs:
